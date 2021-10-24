@@ -18,4 +18,3 @@ In this tutorial I show you how to:
 - Running a simple ConR analysis on multiple species
 - Running a 'ConR' analysis using protected areas
 - Generate richness maps from 'ConR'
-
