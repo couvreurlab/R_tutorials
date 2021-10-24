@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# Tutorials for mapping diversity and conservation evaluation
 
-You can use the [editor on GitHub](https://github.com/couvreurlab/R_tutorials/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+These tutorials can be used for any region with any type of distribution data.  
+The distribution data should have however: Latitude and Longitude fields in decimal degrees (names as *ddlat* and *ddlong*, and the fields whould be seperated by a ';'.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Mapping palm distribution and diversity in Ecuador](https://couvreurlab.github.io/R_tutorials/Maps_palms.html)  
+In this tutorial I show you how to:
+- Create maps with low or high precision (country or regional)
+- Plot distribution data on these maps
+- Map different types of climatic data
+- Generate species or genus richness maps using grids
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Conservation analyses using ConR and Annonaceae in Madagascar](https://couvreurlab.github.io/R_tutorials/Maps_palms.html)  
+In this tutorial I show you how to:
+- How to plot distribution data on maps (country or regional)
+- Prepare distrib ution data for ConR analysis
+- Running a simple ConR analysis on multiple species
+- Running a 'ConR' analysis using protected areas
+- Generate richness maps from 'ConR'
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/couvreurlab/R_tutorials/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
